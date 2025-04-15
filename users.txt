@@ -1,0 +1,5 @@
+swaraj,s,employee
+s,s,manager
+niranjan,1,employee
+Swaraj,123,manager,
+swaraj,121,employee,121
